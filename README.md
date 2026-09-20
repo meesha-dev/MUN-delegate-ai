@@ -1,2 +1,2 @@
 # MUN-delegate-ai
-Added automatic column header standardization, separate missing value logic for numbers and text, and a detailed summary printout.
+An AI assistant designed to help Model UN delegates streamline research, format official UN resolution clauses, and generate diplomatic debate questions
